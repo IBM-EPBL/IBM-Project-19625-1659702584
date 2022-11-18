@@ -1,8 +1,12 @@
 # IBM-Project-19625-1659702584
 Car Resale value Prediction
+
 Team Members
 
 SUGARANJAN S
+
 SUGANTH V
+
 RAJKUMAR A
-SANJAKUMAR R
+
+SANJAYKUMAR R
